@@ -1,0 +1,106 @@
+/* poppins-200 - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  src: local(''), url('../fonts/poppins-v15-latin-200.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('../fonts/poppins-v15-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-regular - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+    url('../fonts/poppins-v15-latin-regular.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('../fonts/poppins-v15-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* poppins-600 - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''), url('../fonts/poppins-v15-latin-600.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('../fonts/poppins-v15-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+html,
+body {
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  color: hsla(232deg, 12%, 34%, 1);
+  font-weight: 200;
+  font-size: 1.5rem;
+  text-align: center;
+}
+h2 {
+  color: hsla(234deg, 12%, 34%, 1);
+  font-weight: 600;
+  font-size: 1.5rem;
+  text-align: center;
+}
+h3 {
+  color: hsla(229deg, 6%, 66%, 1);
+  font-weight: 400;
+  font-size: 0.94rem;
+  line-height: 25px;
+  text-align: center;
+  padding-top: 20px;
+}
+h4 {
+  color: hsla(234deg, 12%, 34%, 1);
+  font-weight: 600;
+  font-size: 1.25rem;
+  padding-top: 27px;
+  padding-left: 28px;
+}
+p {
+  color: hsla(229deg, 6%, 66%, 1);
+  font-weight: 400;
+  font-size: 0.8125rem;
+  line-height: 24px;
+  padding-left: 28px;
+}
+main {
+  display: flex;
+  flex-direction: column;
+}
+.titleBlock {
+  margin: auto;
+  margin-top: 85px;
+  width: 311px;
+  height: 161px;
+  margin-bottom: 76px;
+}
+.benefitsBlocks {
+  position: relative;
+  margin: auto;
+  width: 311px;
+  height: 222px;
+  margin-bottom: 25px;
+  border-radius: 5px 5px 0px 0px;
+  box-shadow: 0px 10px 25px -8px hsla(212deg, 39%, 66%, 0.7);
+}
+.icon {
+position: absolute;
+right: 32px;
+bottom: 32px;
+width: 57px;
+}
+.supervisor {
+  border-top: hsla(180deg, 62%, 55%, 1) solid 4px;
+}
+.team {
+  border-top: hsla(0deg, 78%, 62%, 1) solid 4px;
+}
+.karma {
+  border-top: hsla(34deg, 97%, 64%, 1) solid 4px;
+}
+.calculator {
+  border-top: hsla(212deg, 86%, 64%, 1) solid 4px;
+}
