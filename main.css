@@ -85,8 +85,8 @@ main {
   width: 311px;
   height: 222px;
   margin-bottom: 25px;
-  border-radius: 5px 5px 0px 0px;
-  box-shadow: 0px 10px 25px -8px hsla(212deg, 39%, 66%, 0.7);
+  border-radius: 5px;
+  box-shadow: 0px 5px 20px 0px hsla(212deg, 39%, 66%, 0.7);
 }
 .icon {
   position: absolute;
