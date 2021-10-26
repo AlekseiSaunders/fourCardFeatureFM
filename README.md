@@ -32,10 +32,10 @@ Users should be able to:
 ### Screenshots
 
 #### Desktop
-![](./../../images/2021-10-24%2018_30_54-Four%20Card%20Feature.png)
+![](./images/2021-10-24%2018_30_54-Four%20Card%20Feature.png)
 
 #### Mobile
-![](../../images/four-card-feature-fm-git-vertical-alekseisaunders.vercel.app.png)
+![](./images/four-card-feature-fm-git-vertical-alekseisaunders.vercel.app.png)
 
 
 ### Links
@@ -43,6 +43,7 @@ Users should be able to:
 - Solution URL: [https://github.com/AlekseiSaunders/fourCardFeatureFM](https://github.com/AlekseiSaunders/fourCardFeatureFM)
 - Live Site URL: [https://four-card-feature-fm-alekseisaunders.vercel.app/](https://four-card-feature-fm-alekseisaunders.vercel.app/)
 https://github.com/AlekseiSaunders/fourCardFeatureFM
+
 ## My process
 
 ### Built with
